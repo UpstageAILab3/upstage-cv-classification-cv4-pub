@@ -2,7 +2,7 @@
 # CV Documentation classification 
 ## Team
 
-| ![이승민](https://avatars.githubusercontent.com/u/156163982?v=4) | ![임종현]https://avatars.githubusercontent.com/u/156163982?v=4) | ![정환희]https://avatars.githubusercontent.com/u/156163982?v=4) | ![조재현](https://avatars.githubusercontent.com/u/156163982?v=4) | ![한지웅](https://avatars.githubusercontent.com/u/156163982?v=4) |
+| ![](https://avatars.githubusercontent.com/u/156163982?v=4) | ![]https://avatars.githubusercontent.com/u/156163982?v=4) | ![]https://avatars.githubusercontent.com/u/156163982?v=4) | ![](https://avatars.githubusercontent.com/u/156163982?v=4) | ![](https://avatars.githubusercontent.com/u/156163982?v=4) |
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
 |            [이승민](https://github.com/UpstageAILab)             |            [임종현](https://github.com/UpstageAILab)             |            [정환희](https://github.com/UpstageAILab)             |            [조재현](https://github.com/UpstageAILab)             |            [한지웅](https://github.com/UpstageAILab)             |
 |                            팀장, 담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |
